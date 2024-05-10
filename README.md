@@ -29,3 +29,10 @@ Welcome to KROY, an action-packed single-player game set in the year 2042 where 
 - **Arrow Keys**: Move the fire truck
 - **ESC Key**: Access the in-game menu (save, load, options)
 - **M, P Keys**: Additional shortcuts for in-game options
+## Credits
+- **Jordan Charles**
+- **Samuel Hutchings**
+- **Chloe Hodgson**
+- **Golnar Kaviani**
+- **Tamour Altaf**
+- **Jack Thoo-Tinsley**
