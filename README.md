@@ -1,1 +1,3 @@
-# UOY_SEPR_Assessment4
+# DicyCat
+
+Working files for Kroy project :)
