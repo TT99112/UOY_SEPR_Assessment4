@@ -1,3 +1,4 @@
-# DicyCat
+# UOY_SEPR_Assessment4
 
-Working files for Kroy project :)
+
+Assessment 4 for SEPR module at the University of York
